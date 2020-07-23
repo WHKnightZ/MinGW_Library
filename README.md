@@ -26,3 +26,7 @@ MinGW Library
 - Copy all files in folder include to MinGW include folder
 - Copy all files in folder lib to MinGW lib folder
 - Copy all files in folder bin to Windows folder
+
+## Reference:
+
+- https://packages.msys2.org/updates
